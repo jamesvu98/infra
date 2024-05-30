@@ -1,0 +1,5 @@
+jamesvu.com {
+  root * /srv/personal-site
+  encode gzip
+  file_server
+}
